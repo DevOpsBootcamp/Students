@@ -4,3 +4,5 @@ Favorite language: Monte
 I'm excited about mentoring your mentors!
 Fun fact: I built robots in high school.
 
+I also enjoy demonstrating how GitHub and Git 
+work, because they're awesome.
